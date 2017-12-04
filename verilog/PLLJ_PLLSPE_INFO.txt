@@ -1,0 +1,10 @@
+PLL_Name	memClk:mk|altpll:altpll_component|memClk_altpll:auto_generated|pll1
+PLLJITTER	30
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	vgaClk:u2|altpll:altpll_component|vgaClk_altpll:auto_generated|pll1
+PLLJITTER	20
+PLLSPEmax	84
+PLLSPEmin	-53
+

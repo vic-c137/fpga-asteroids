@@ -1,0 +1,101 @@
+module CommandShip (
+		iRst,
+		iPClk,
+		iMemClk,
+		iAngle,
+		iRestart,
+		// Draw Signal
+		iVGA_X,
+		iVGA_Y,
+		oDrawPixel,
+		iCollision,
+		oActive
+		);
+
+	
+input [2:0]		iAngle;
+input 			iMemClk;
+input				iPClk;
+input 			iRst;
+input				iRestart;
+input	[10:0]		iVGA_X;
+input	[10:0]		iVGA_Y;
+input				iCollision;
+
+output			oDrawPixel;
+wire				oDrawPixel;
+output			oActive;
+
+wire oActive;
+
+assign oActive = intack;
+
+parameter [10:0] POS_X = 311;
+parameter [10:0] POS_Y = 231;
+
+wire [4:0] col;
+assign col = iVGA_X - POS_X;
+
+wire [4:0] row;
+assign row = iVGA_Y - POS_Y;
+
+wire inPosition;
+assign inPosition = ((iVGA_X - POS_X)) < 20 && ((iVGA_Y - POS_Y) < 20);
+
+assign drawShip = inPosition && intack;
+wire drawShip;
+
+assign oDrawPixel = (drawShip) ? current[col] : 0 ;
+
+
+wire	[7:0]  rAddr;
+wire  [19:0] current;
+
+assign rAddr =  20 * angle + row;
+wire	[2:0]		angle;
+
+assign angle = iAngle;
+
+shipSprite shipBitMaps(rAddr, iMemClk, current);
+reg intack;
+
+reg collision;
+
+always@( negedge iPClk)
+begin
+	if(iCollision == 1 && oDrawPixel == 1)
+	begin
+		collision = 1;
+	end
+	else
+	begin
+		collision = 0;
+	end
+end
+
+
+always@(posedge collision or posedge iRestart or negedge iRst)
+begin
+	if(iRestart || !iRst)
+	begin
+		intack = 1'b1;
+	end
+	else if (collision)
+	begin
+		intack = 1'b0;
+	end
+	else
+	begin
+	end
+end
+
+initial
+begin
+	intack = 1;
+end
+
+
+endmodule
+
+
+ 

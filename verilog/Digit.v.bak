@@ -1,0 +1,27 @@
+module Digit (
+	iClk,
+	// position to draw
+	iPosX,
+	iPosY,
+	// current VGA position
+	iVGA_X,
+	iVGA_Y,
+	// digit
+	iDigit,
+	// output to light pixel
+	oDrawNum,
+	// blank digit
+	iBlank;
+);
+
+input iClk;
+
+input [10:0]	iPosX;
+input [10:0]	iPosY;
+input [10:0]	iVGA_X;
+input [10:0]	iVGA_Y;
+
+input [3:0]		iDigit;
+
+
+digit_bitmap(iClk, )

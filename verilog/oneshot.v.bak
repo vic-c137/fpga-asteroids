@@ -1,0 +1,28 @@
+module oneshot (
+	iTrig,
+	iClk,
+	oPulse
+);
+
+input iTrig;
+input iClk;
+output oPulse;
+
+reg oPulse;
+reg qState;
+
+always@(posedge iTrig or posedge oPulse)
+begin
+	if(oPulse)
+		qState <= 0;
+	else
+		qState <= 1;
+end
+
+always@(posedge iClk)
+begin
+	oPulse <= qState;
+end
+
+
+endmodule

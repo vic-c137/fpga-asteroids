@@ -1,0 +1,1601 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -46.193
+TNS   : -8486.047
+
+Type  : Slow 1200mV 85C Model Setup 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -13.243
+TNS   : -563.135
+
+Type  : Slow 1200mV 85C Model Setup 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -7.679
+TNS   : -200.642
+
+Type  : Slow 1200mV 85C Model Setup 'BUTTON[0]'
+Slack : -3.283
+TNS   : -42.666
+
+Type  : Slow 1200mV 85C Model Setup 'aID[0]'
+Slack : -2.736
+TNS   : -749.825
+
+Type  : Slow 1200mV 85C Model Setup 'fireCnt[0]'
+Slack : -2.692
+TNS   : -60.881
+
+Type  : Slow 1200mV 85C Model Setup 'keyboard:kb|valid_bit'
+Slack : -2.597
+TNS   : -22.474
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a0|oCntPoints'
+Slack : -1.558
+TNS   : -19.685
+
+Type  : Slow 1200mV 85C Model Setup 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -1.267
+TNS   : -15.124
+
+Type  : Slow 1200mV 85C Model Setup 'oneshot:os|oPulse'
+Slack : -0.838
+TNS   : -2.504
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_controller:cont|fire'
+Slack : -0.613
+TNS   : -1.640
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t0|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t1|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t2|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t3|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t4|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t5|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t6|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'Torpedo:t7|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a0|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a10|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a11|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a12|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a13|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a14|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a15|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a1|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a2|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a3|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a4|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a5|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a6|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a7|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a8|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'asteroid_8x8:a9|collision'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'aID[0]'
+Slack : -1.482
+TNS   : -381.354
+
+Type  : Slow 1200mV 85C Model Hold 'fireCnt[0]'
+Slack : -0.938
+TNS   : -3.678
+
+Type  : Slow 1200mV 85C Model Hold 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.616
+TNS   : -0.616
+
+Type  : Slow 1200mV 85C Model Hold 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.175
+TNS   : -0.346
+
+Type  : Slow 1200mV 85C Model Hold 'BUTTON[0]'
+Slack : -0.163
+TNS   : -0.471
+
+Type  : Slow 1200mV 85C Model Hold 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -0.162
+TNS   : -0.162
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_controller:cont|fire'
+Slack : -0.110
+TNS   : -0.151
+
+Type  : Slow 1200mV 85C Model Hold 'keyboard:kb|valid_bit'
+Slack : -0.067
+TNS   : -0.067
+
+Type  : Slow 1200mV 85C Model Hold 'oneshot:os|oPulse'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a0|oCntPoints'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA_Ctrl:u3|oVGA_HS'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t0|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t1|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t2|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t3|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t4|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t5|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t6|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Torpedo:t7|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a0|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a10|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a11|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a12|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a13|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a14|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a15|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a1|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a2|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a3|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a4|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a5|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a6|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a7|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a8|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'asteroid_8x8:a9|collision'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.528
+TNS   : -41.320
+
+Type  : Slow 1200mV 85C Model Recovery 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.946
+TNS   : -1645.462
+
+Type  : Slow 1200mV 85C Model Recovery 'CommandShip:spare1|collision'
+Slack : -2.335
+TNS   : -2.335
+
+Type  : Slow 1200mV 85C Model Recovery 'CommandShip:ship|collision'
+Slack : -2.290
+TNS   : -2.290
+
+Type  : Slow 1200mV 85C Model Recovery 'CommandShip:spare3|collision'
+Slack : -1.924
+TNS   : -1.924
+
+Type  : Slow 1200mV 85C Model Recovery 'asteroid_controller:cont|fire'
+Slack : -1.720
+TNS   : -5.160
+
+Type  : Slow 1200mV 85C Model Recovery 'CommandShip:spare2|collision'
+Slack : -1.516
+TNS   : -1.516
+
+Type  : Slow 1200mV 85C Model Recovery 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -1.209
+TNS   : -14.331
+
+Type  : Slow 1200mV 85C Model Recovery 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -0.540
+TNS   : -8.497
+
+Type  : Slow 1200mV 85C Model Recovery 'fireDn'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'asteroid_8x8:a0|oCntPoints'
+Slack : 0.619
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'asteroid_8x8:a0|oCntPoints'
+Slack : -1.411
+TNS   : -23.460
+
+Type  : Slow 1200mV 85C Model Removal 'fireDn'
+Slack : 0.037
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CommandShip:ship|collision'
+Slack : 0.690
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : 0.791
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.181
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'VGA_Ctrl:u3|oVGA_HS'
+Slack : 1.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CommandShip:spare2|collision'
+Slack : 1.480
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'asteroid_controller:cont|fire'
+Slack : 1.694
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CommandShip:spare3|collision'
+Slack : 1.835
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.863
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CommandShip:spare1|collision'
+Slack : 2.195
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'BUTTON[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'aID[0]'
+Slack : -1.000
+TNS   : -416.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -1.000
+TNS   : -42.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fireCnt[0]'
+Slack : -1.000
+TNS   : -32.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a0|oCntPoints'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'keyboard:kb|valid_bit'
+Slack : -1.000
+TNS   : -13.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_controller:cont|fire'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'oneshot:os|oPulse'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CommandShip:ship|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CommandShip:spare1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CommandShip:spare2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CommandShip:spare3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t0|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t4|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t5|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t6|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Torpedo:t7|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a0|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a10|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a11|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a12|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a13|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a14|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a15|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a4|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a5|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a6|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a7|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a8|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'asteroid_8x8:a9|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'fireDn'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 9.732
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.825
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.619
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -41.200
+TNS   : -7470.776
+
+Type  : Slow 1200mV 0C Model Setup 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -11.775
+TNS   : -500.223
+
+Type  : Slow 1200mV 0C Model Setup 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -6.852
+TNS   : -176.341
+
+Type  : Slow 1200mV 0C Model Setup 'BUTTON[0]'
+Slack : -2.830
+TNS   : -31.987
+
+Type  : Slow 1200mV 0C Model Setup 'fireCnt[0]'
+Slack : -2.476
+TNS   : -55.346
+
+Type  : Slow 1200mV 0C Model Setup 'aID[0]'
+Slack : -2.388
+TNS   : -641.389
+
+Type  : Slow 1200mV 0C Model Setup 'keyboard:kb|valid_bit'
+Slack : -2.209
+TNS   : -18.672
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a0|oCntPoints'
+Slack : -1.249
+TNS   : -15.307
+
+Type  : Slow 1200mV 0C Model Setup 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -1.052
+TNS   : -12.527
+
+Type  : Slow 1200mV 0C Model Setup 'oneshot:os|oPulse'
+Slack : -0.656
+TNS   : -1.954
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_controller:cont|fire'
+Slack : -0.441
+TNS   : -1.046
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t0|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t1|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t2|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t3|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t4|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t5|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t6|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Torpedo:t7|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a0|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a10|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a11|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a12|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a13|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a14|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a15|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a1|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a2|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a3|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a4|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a5|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a6|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a7|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a8|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'asteroid_8x8:a9|collision'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'aID[0]'
+Slack : -1.171
+TNS   : -284.323
+
+Type  : Slow 1200mV 0C Model Hold 'fireCnt[0]'
+Slack : -0.783
+TNS   : -2.578
+
+Type  : Slow 1200mV 0C Model Hold 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.664
+TNS   : -0.664
+
+Type  : Slow 1200mV 0C Model Hold 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.283
+TNS   : -0.560
+
+Type  : Slow 1200mV 0C Model Hold 'BUTTON[0]'
+Slack : -0.212
+TNS   : -1.012
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_controller:cont|fire'
+Slack : -0.128
+TNS   : -0.228
+
+Type  : Slow 1200mV 0C Model Hold 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -0.116
+TNS   : -0.116
+
+Type  : Slow 1200mV 0C Model Hold 'keyboard:kb|valid_bit'
+Slack : -0.076
+TNS   : -0.076
+
+Type  : Slow 1200mV 0C Model Hold 'oneshot:os|oPulse'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a0|oCntPoints'
+Slack : 0.319
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'VGA_Ctrl:u3|oVGA_HS'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t0|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t1|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t2|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t3|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t4|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t5|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t6|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Torpedo:t7|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a0|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a10|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a11|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a12|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a13|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a14|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a15|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a1|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a2|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a3|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a4|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a5|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a6|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a7|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a8|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'asteroid_8x8:a9|collision'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -3.137
+TNS   : -36.620
+
+Type  : Slow 1200mV 0C Model Recovery 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.565
+TNS   : -1427.028
+
+Type  : Slow 1200mV 0C Model Recovery 'CommandShip:spare1|collision'
+Slack : -2.124
+TNS   : -2.124
+
+Type  : Slow 1200mV 0C Model Recovery 'CommandShip:ship|collision'
+Slack : -2.061
+TNS   : -2.061
+
+Type  : Slow 1200mV 0C Model Recovery 'CommandShip:spare3|collision'
+Slack : -1.755
+TNS   : -1.755
+
+Type  : Slow 1200mV 0C Model Recovery 'asteroid_controller:cont|fire'
+Slack : -1.560
+TNS   : -4.680
+
+Type  : Slow 1200mV 0C Model Recovery 'CommandShip:spare2|collision'
+Slack : -1.381
+TNS   : -1.381
+
+Type  : Slow 1200mV 0C Model Recovery 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -1.158
+TNS   : -13.716
+
+Type  : Slow 1200mV 0C Model Recovery 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -0.578
+TNS   : -9.105
+
+Type  : Slow 1200mV 0C Model Recovery 'fireDn'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'asteroid_8x8:a0|oCntPoints'
+Slack : 0.552
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'asteroid_8x8:a0|oCntPoints'
+Slack : -1.170
+TNS   : -19.150
+
+Type  : Slow 1200mV 0C Model Removal 'fireDn'
+Slack : 0.018
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CommandShip:ship|collision'
+Slack : 0.696
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : 0.812
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.049
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'VGA_Ctrl:u3|oVGA_HS'
+Slack : 1.287
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CommandShip:spare2|collision'
+Slack : 1.418
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'asteroid_controller:cont|fire'
+Slack : 1.618
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.652
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CommandShip:spare3|collision'
+Slack : 1.740
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CommandShip:spare1|collision'
+Slack : 2.080
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'BUTTON[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'aID[0]'
+Slack : -1.000
+TNS   : -416.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -1.000
+TNS   : -42.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fireCnt[0]'
+Slack : -1.000
+TNS   : -32.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a0|oCntPoints'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'keyboard:kb|valid_bit'
+Slack : -1.000
+TNS   : -13.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_controller:cont|fire'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'oneshot:os|oPulse'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CommandShip:ship|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CommandShip:spare1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CommandShip:spare2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CommandShip:spare3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t0|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t4|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t5|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t6|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Torpedo:t7|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a0|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a10|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a11|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a12|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a13|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a14|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a15|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a4|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a5|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a6|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a7|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a8|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a9|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'fireDn'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 9.740
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.785
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.614
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -25.582
+TNS   : -4561.844
+
+Type  : Fast 1200mV 0C Model Setup 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -7.764
+TNS   : -328.429
+
+Type  : Fast 1200mV 0C Model Setup 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -3.883
+TNS   : -95.013
+
+Type  : Fast 1200mV 0C Model Setup 'BUTTON[0]'
+Slack : -1.723
+TNS   : -15.143
+
+Type  : Fast 1200mV 0C Model Setup 'fireCnt[0]'
+Slack : -1.483
+TNS   : -33.274
+
+Type  : Fast 1200mV 0C Model Setup 'keyboard:kb|valid_bit'
+Slack : -1.303
+TNS   : -10.666
+
+Type  : Fast 1200mV 0C Model Setup 'aID[0]'
+Slack : -1.194
+TNS   : -265.552
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a0|oCntPoints'
+Slack : -0.453
+TNS   : -3.245
+
+Type  : Fast 1200mV 0C Model Setup 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -0.231
+TNS   : -2.746
+
+Type  : Fast 1200mV 0C Model Setup 'oneshot:os|oPulse'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_controller:cont|fire'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t0|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t1|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t2|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t3|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t4|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t5|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t6|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'Torpedo:t7|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a0|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a10|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a11|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a12|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a13|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a14|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a15|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a1|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a2|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a3|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a4|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a5|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a6|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a7|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a8|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'asteroid_8x8:a9|collision'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'aID[0]'
+Slack : -0.730
+TNS   : -204.936
+
+Type  : Fast 1200mV 0C Model Hold 'fireCnt[0]'
+Slack : -0.583
+TNS   : -1.814
+
+Type  : Fast 1200mV 0C Model Hold 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.407
+TNS   : -0.407
+
+Type  : Fast 1200mV 0C Model Hold 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.150
+TNS   : -0.272
+
+Type  : Fast 1200mV 0C Model Hold 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -0.137
+TNS   : -0.137
+
+Type  : Fast 1200mV 0C Model Hold 'BUTTON[0]'
+Slack : -0.123
+TNS   : -0.526
+
+Type  : Fast 1200mV 0C Model Hold 'keyboard:kb|valid_bit'
+Slack : -0.094
+TNS   : -0.094
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_controller:cont|fire'
+Slack : -0.088
+TNS   : -0.157
+
+Type  : Fast 1200mV 0C Model Hold 'oneshot:os|oPulse'
+Slack : 0.048
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a0|oCntPoints'
+Slack : 0.195
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'VGA_Ctrl:u3|oVGA_HS'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t0|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t1|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t2|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t3|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t4|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t5|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t6|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Torpedo:t7|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a0|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a10|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a11|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a12|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a13|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a14|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a15|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a1|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a2|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a3|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a4|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a5|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a6|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a7|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a8|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'asteroid_8x8:a9|collision'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.438
+TNS   : -28.892
+
+Type  : Fast 1200mV 0C Model Recovery 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.900
+TNS   : -1056.229
+
+Type  : Fast 1200mV 0C Model Recovery 'CommandShip:spare1|collision'
+Slack : -1.534
+TNS   : -1.534
+
+Type  : Fast 1200mV 0C Model Recovery 'CommandShip:ship|collision'
+Slack : -1.433
+TNS   : -1.433
+
+Type  : Fast 1200mV 0C Model Recovery 'CommandShip:spare3|collision'
+Slack : -1.277
+TNS   : -1.277
+
+Type  : Fast 1200mV 0C Model Recovery 'asteroid_controller:cont|fire'
+Slack : -1.127
+TNS   : -3.381
+
+Type  : Fast 1200mV 0C Model Recovery 'CommandShip:spare2|collision'
+Slack : -1.009
+TNS   : -1.009
+
+Type  : Fast 1200mV 0C Model Recovery 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -0.478
+TNS   : -5.595
+
+Type  : Fast 1200mV 0C Model Recovery 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -0.048
+TNS   : -0.548
+
+Type  : Fast 1200mV 0C Model Recovery 'fireDn'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'asteroid_8x8:a0|oCntPoints'
+Slack : 0.195
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'asteroid_8x8:a0|oCntPoints'
+Slack : -0.914
+TNS   : -15.460
+
+Type  : Fast 1200mV 0C Model Removal 'fireDn'
+Slack : 0.046
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CommandShip:ship|collision'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.571
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : 0.730
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CommandShip:spare2|collision'
+Slack : 0.815
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'asteroid_controller:cont|fire'
+Slack : 0.930
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.975
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CommandShip:spare3|collision'
+Slack : 1.035
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'VGA_Ctrl:u3|oVGA_HS'
+Slack : 1.075
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CommandShip:spare1|collision'
+Slack : 1.231
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'BUTTON[0]'
+Slack : -3.000
+TNS   : -3.983
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'aID[0]'
+Slack : -1.000
+TNS   : -416.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'keyboard:kb|kbd_clk_debounce:debounce|data_out'
+Slack : -1.000
+TNS   : -42.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fireCnt[0]'
+Slack : -1.000
+TNS   : -32.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a0|oCntPoints'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'keyboard:kb|valid_bit'
+Slack : -1.000
+TNS   : -13.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA_Ctrl:u3|oVGA_HS'
+Slack : -1.000
+TNS   : -12.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_controller:cont|fire'
+Slack : -1.000
+TNS   : -7.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'oneshot:os|oPulse'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CommandShip:ship|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CommandShip:spare1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CommandShip:spare2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CommandShip:spare3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t0|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t4|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t5|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t6|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Torpedo:t7|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a0|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a10|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a11|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a12|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a13|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a14|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a15|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a1|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a2|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a3|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a4|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a5|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a6|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a7|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a8|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'asteroid_8x8:a9|collision'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'fireDn'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.585
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mk|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 9.747
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u2|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.633
+TNS   : 0.000
+
+------------------------------------------------------------

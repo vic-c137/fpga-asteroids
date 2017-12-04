@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Asteroids">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|CommandShip:ship|shipSprite:shipBitMaps|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qs91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Digit:d6|digit_bitmap:map|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_le91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_bbm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_8bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_4bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_8jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Mod3" CBX_FILE_NAME="lpm_divide_q9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|fireDecode:fd|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_5af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Digit:d3|digit_bitmap:map|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_le91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_bjm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Mod4" CBX_FILE_NAME="lpm_divide_n9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t7|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a7|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|spareShipDecode:ssd|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Digit:d4|digit_bitmap:map|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_le91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Div2" CBX_FILE_NAME="lpm_divide_4jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t0|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a0|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a0|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_58m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a8|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_decode:ast|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_lbf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_placer:ap|lpm_add_sub:Add3" CBX_FILE_NAME="add_sub_4ti.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Digit:d5|digit_bitmap:map|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_le91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Div3" CBX_FILE_NAME="lpm_divide_mhm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t1|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a10|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a1|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a9|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|CommandShip:spare1|shipSprite:shipBitMaps|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qs91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Hex2BCD:h2d|lpm_divide:Div4" CBX_FILE_NAME="lpm_divide_9gm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t2|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a11|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a2|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|CommandShip:spare2|shipSprite:shipBitMaps|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qs91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t3|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a12|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a3|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|vgaClk:u2|altpll:altpll_component" CBX_FILE_NAME="vgaClk_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|CommandShip:spare3|shipSprite:shipBitMaps|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qs91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t4|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a13|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a4|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Digit:d1|digit_bitmap:map|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_le91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t5|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a14|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a5|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|memClk:mk|altpll:altpll_component" CBX_FILE_NAME="memClk_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Digit:d2|digit_bitmap:map|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_le91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|Torpedo:t6|torpedoSprite:ts|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a15|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_8x8:a6|asteroidSprites:as|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_g8a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Asteroids|asteroid_placer:ap|lpm_add_sub:Add1" CBX_FILE_NAME="add_sub_3ti.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
